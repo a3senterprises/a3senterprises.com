@@ -1,3 +1,2 @@
-cd a3s-enterprises
 git remote add origin https://github.com/YOUR-USERNAME/a3s-enterprises.git
 git push -u origin main
